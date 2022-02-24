@@ -1,1 +1,1 @@
-# Image-And-Decryption-using-AES-Algorithm
+# Image-Encryption-And-Decryption-using-AES-Algorithm-Algorithm
